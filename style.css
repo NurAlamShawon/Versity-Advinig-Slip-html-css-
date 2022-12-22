@@ -1,0 +1,88 @@
+.image {
+    width: 95px;
+    height: 65px;
+    text-align: center;
+ 
+
+
+}
+
+.image1 {
+    width: 175px;
+    height: 100px;
+    text-align: center;
+    padding: 0%;
+
+}
+
+.div-close {
+    clear: both;
+}
+
+table {
+    width: 85%;
+}
+
+tr {
+    height: 50px;
+}
+
+.first-line {
+    font-size: 16px;
+    height: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.second-line {
+    font-size: 14px;
+    height: 60px;
+    text-align: center;
+}
+
+.third-line {
+    font-size: 14px;
+    height: 60px;
+    text-align: center;
+}
+
+.fourth-line {
+    float: top;
+    font-size: 15px;
+    height: 60px;
+    text-align: center;
+}
+
+.table {
+    height: 100px;
+    width: 1000px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 0px;
+    border-collapse: collapse;
+}
+
+.right-divmoney {
+    float: right;
+    padding-right: 150px;
+}
+
+.left-divmoney {
+    float: left;
+    padding-left: 30px;
+}
+
+.table-bank {
+    padding-left: 30px;
+}
+
+.table-taka {
+    padding: 0%;
+}
+hr{
+    color:black;
+    
+}
+.bankcopyimage{
+    width: 83%;
+}
